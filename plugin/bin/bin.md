@@ -1,5 +1,7 @@
 # Binaries for /bin
 
+---
+
 ## Required binaries
 
 | Binary Name | Description |
@@ -8,6 +10,8 @@
 | `gpuKM.exe` | K‑means in GPU |
 | `cpuGMM.exe` | GMM in CPU |
 | `gpuGMM.exe` | GMM in GPU |
+
+---
 
 ## Steps to insert
 
