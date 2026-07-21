@@ -1,0 +1,12 @@
+[general]
+name=Raster Clustering
+qgisMinimumVersion=4.0
+description=Run clustering algorithms on raster images using compiled binaries.
+version=1.0.0
+author=Adam El Fakhouri
+email=adam.elfakhouri0@gmail.com
+about=Plugin to execute K-Means and GMM clustering algorithms on raster images and display results directly in QGIS.
+repository=https://github.com/Didoyas/clustering-acceleration
+tags=raster,clustering,kmeans,gmm,classification
+category=Raster
+icon=icon.png
